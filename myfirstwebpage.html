@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My first web page</title>
+
+	<!-- This is a comment, by the way -->
+</head>
+
+<body>
+	
+	<h1>My first web page</h1>
+
+	<h2>What this is</h2>
+	<p>A simple page put together using HTML. <em>I said a simple page put together using HTML. </em>A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML.</p>
+
+	<h2>Why this is</h2>
+	<ul>
+		<li>To learn HTML</li>
+		<li>
+			To show off
+			<ol>
+				<li>To my boss</li>
+				<li>To my friends</li>
+				<li>To my dog</li>
+				<li>To the little talking duck in my brain.</li>
+			</ol>
+		</li>
+		<li>Because I have fallen in love with my computer and want to give her some HTML loving.</li>
+	</ul>
+
+	<h2>Where to find this tutorial</h2>
+	<p>
+		<a href="http://www.htmldog.com">
+			<img src="http://www.htmldog.com/badge1.gif" width="120" height="90" alt="HTML Dog" />
+		</a>
+	</p>
+
+	<h3>Some random table</h3>
+	<table>
+		<tr>
+			<td>Row 1, cell 1</td>
+			<td>Raw 1, cell 2</td>
+			<td>Raw 1, cell 3</td>
+		</tr>
+		<tr>
+			<td>Raw 2, cell 1</td>
+			<td>Raw 2, cell 2</td>
+			<td>Raw 2, cell 3</td>
+		</tr>
+		<tr>
+			<td>Raw 3, cell 1</td>
+			<td>Raw 3, cell 2</td>
+			<td>Raw 3, cell 3</td>
+		</tr>
+	</table>
+
+	<h3>Some random form</h3>
+	<p><strong>Note: </strong>It looks the part, but won't do a damned thing.</p>
+
+	<form action="somescript.php" method="POST">
+		<p>Name:</p>
+		<p>
+			<input type="text" name="name" value="Your name" />
+		</p>
+		<p>Skills:</p>
+		<p>
+			<input list="skills" name="skills" />
+			<datalist id="skills">
+				<options value="hml">HTML</options>
+				<option value="css">CSS</option>
+				<option value="js" selected>JavaScript</option>
+				<option value="cs">C#</option>
+				<option value="git">Git</option>
+				<option value="react">React</option>
+				<option value="py">Python</option>
+				<option value="php">PHP</option>
+			</datalist>
+		</p>
+		<p>Comments:</p>
+		<p>
+			<textarea rows="10" cols="20" name="comments">Your comments</textarea>
+		</p>
+
+		<p>Gender:</p>
+		<p>
+			<input type="radio" name="gender" value="male" /> Male
+		</p>
+		<p>
+			<input type="radio" name="gender" value="female" /> Female
+		</p>
+		<p>
+			<input type="radio" name="gender" value="hermaphrodite" /> Hermaphrodite
+		</p>
+		<p>
+			<input type="radio" name="gender" value="asexual" checked /> Asexual
+		</p>
+
+		<p>
+			<input type="submit" value="Submit" />
+		</p>
+	</form>
+</body>
+
+</html>
