@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shimazaky80
-- 👀 I’m interested in Web Development in particular JavaScript, C# and the .NET platform
+- 👋 Hi, my friends call me "Sony" aka "Shimazaky"
+- 👀 I’m interested in Web Development in particular JavaScript, Python, MERN stack, PHP, C# and the .NET platform
 - 🌱 I’m currently learning HTML, CSS, JavaScript and C#
-- 💞️ I’m looking to collaborate on coding projects with HTML, CSS and JavaScript for now 
+- 💞️ I’m looking to collaborate on coding projects with HTML, CSS and JavaScript for the moment. 
 - 📫 How to reach me
       email: shimazaky1980@gmail.com
       twitter: @shimazaky
