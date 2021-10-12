@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on coding projects with JavaScript for the moment
 - ✨ I’m interested in NodeJS, VueJS, ReactJS, Python, PHP, C# and the .NET platform
 - 👀 Fun fact: I spend a lot of time at the beach with the family
-- 📫 How to reach me
-      email: shimazaky1980@gmail.com
-      twitter: @shimazaky
-      instagram: https://www.instagram.com/shimazaky80/
-      facebook: https://www.facebook.com/shimazaky/
+- 📫 How to reach me: <br>
+      email: shimazaky1980@gmail.com <br>
+      twitter: https://twitter.com/shimazaky <br>
       linkedin: https://www.linkedin.com/in/jose-sonhy-96949aa2/
 
 <!---
