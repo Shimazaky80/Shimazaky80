@@ -1,7 +1,9 @@
 - 👋 Hi, my friends call me "Sony" aka "Shimazaky"
-- 👀 I’m interested in Web Development in particular JavaScript, Python, MERN stack, PHP, C# and the .NET platform
-- 🌱 I’m currently learning HTML, CSS, JavaScript and C#
-- 💞️ I’m looking to collaborate on coding projects with HTML, CSS and JavaScript for the moment. 
+- 👀 I’m currently working at Amazon Development Center in the communities department
+- 🌱 I’m currently learning HTML, CSS,  and JavaScript
+- 💞️ I’m looking to collaborate on coding projects with JavaScript for the moment
+- ✨ I’m interested in NodeJS, VueJS, ReactJS, Python, PHP, C# and the .NET platform
+- 👀 Fun fact: I spend a lot of time at the beach with the family
 - 📫 How to reach me
       email: shimazaky1980@gmail.com
       twitter: @shimazaky
